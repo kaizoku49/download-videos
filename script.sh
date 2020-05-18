@@ -4,7 +4,7 @@ cd ..
 cd .. 
 pkg install python -y
 
-pip install youtube-dl -y
+pip install youtube-dl
 
 pip install --upgrade pip
 mkdir .config
