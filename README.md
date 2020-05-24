@@ -8,7 +8,7 @@ The procedure is pretty simple-:
 4) Further type "cd storage/downloads/"
 5) Now just run the script using the command "sh script.sh"
 6) After the process has been completed you'll get a message saying the same.
-7) Now just go to any website(youtube, facebook, reddit etc), tap the share button then on termux and the video file will be downloaded in the download_vids destination in your internal storage.
+7) Now just go to any website(youtube, facebook, reddit etc), tap the share button then tap on termux icon  and the video file will be downloaded in the download_vids destination in your internal storage.
 
 
 Credits- https://github.com/ytdl-org/youtube-dl
