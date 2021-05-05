@@ -3,8 +3,10 @@ echo "Starting the script..."
 cd ..
 cd .. 
 pkg update && pkg upgrade 
-echo "Downloading python..."
+echo "Downloading python, ffmpeg, curl..."
 pkg install python -y
+pkg install curl -y 
+pkg install ffmpeg -y
 echo "Installing Youtube-dl..."
 pip install youtube-dl
 echo "Upgrading Pip..."
