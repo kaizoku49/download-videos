@@ -3,7 +3,7 @@ download the embedded videos in websites with just two clicks on Android.
 
 The procedure is pretty simple-:
 1) Download termux from playstore.
-2) Download the script.sh available in this repository to your Download folder in the internal storage
+2) Download the script.sh available in this repository to your Download folder (it is important that you put this file in the downloads folder only and not any other place as it obsturcts the process of the script) in the internal storage
 3) Open Termux and type "termux-setup-storage" allow it file permissions 
 4) Further type "cd storage/downloads/"
 5) Now just run the script using the command "sh script.sh"
