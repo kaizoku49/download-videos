@@ -1,12 +1,15 @@
  #!/system/bin/sh
- echo "Starting the script..."
+echo "Starting the script..."
 cd ..
 cd .. 
+pkg update && pkg upgrade 
+echo "Downloading python..."
 pkg install python -y
-
+echo "Installing Youtube-dl..."
 pip install youtube-dl
-
+echo "Upgrading Pip..."
 pip install --upgrade pip
+echo "Making necessary files..."
 mkdir .config
 
 cd .config
