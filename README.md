@@ -13,3 +13,4 @@ The procedure is pretty simple-:
 
 Credits- https://github.com/ytdl-org/youtube-dl
 which made all of this possible in the first place.
+This guide-: https://www.reddit.com/r/Android/comments/oj3lb5/howto_download_reddit_videos_without_usavevideo/
